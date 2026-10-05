@@ -1,0 +1,2 @@
+../Src/my_switch.c:9:6:switch_init	4	static
+../Src/my_switch.c:18:5:switch_press	4	static

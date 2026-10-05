@@ -1,0 +1,6 @@
+../Inc/system_stm32f4xx.h:128:20:DelayMs	2
+../Src/my_led.c:10:6:led_init	1
+../Src/my_led.c:22:6:led_12	1
+../Src/my_led.c:29:6:led_13	1
+../Src/my_led.c:36:6:led_14	1
+../Src/my_led.c:43:6:led_15	1

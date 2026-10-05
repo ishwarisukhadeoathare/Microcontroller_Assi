@@ -1,0 +1,4 @@
+../Inc/system_stm32f4xx.h:128:20:DelayMs	24	static
+../Src/my_led.c:10:6:led_init	4	static
+../Src/my_led.c:27:6:led_forward	8	static
+../Src/my_led.c:42:6:led_backward	8	static
