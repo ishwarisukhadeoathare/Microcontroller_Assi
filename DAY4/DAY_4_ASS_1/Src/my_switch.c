@@ -2,7 +2,7 @@
  * my_switch.c
  *
  *  Created on: 14-Sept-2026
- *      Author: pranav
+ *      Author: ishwari
  */
 
 #include "my_switch.h"
