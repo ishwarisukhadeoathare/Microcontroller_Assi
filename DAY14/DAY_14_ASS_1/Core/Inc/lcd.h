@@ -2,7 +2,7 @@
  * lcd.h
  *
  *  Created on: 01-Oct-2026
- *      Author: pranav
+ *      Author: ishwari
  */
 
 #ifndef INC_LCD_H_
