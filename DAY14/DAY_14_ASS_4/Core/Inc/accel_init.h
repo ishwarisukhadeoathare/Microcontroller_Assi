@@ -2,7 +2,7 @@
  * accel_init.h
  *
  *  Created on: 30-Sept-2026
- *      Author: pranav
+ *      Author: ishwari
  */
 
 #ifndef INC_ACCEL_INIT_H_
