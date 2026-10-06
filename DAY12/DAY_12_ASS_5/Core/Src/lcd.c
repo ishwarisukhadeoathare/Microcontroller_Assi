@@ -80,5 +80,5 @@ void lcd_puts(uint8_t line, char str[])
 
 void lcd_shift_display(void)
 {
-
+lcd_write_byte(LCD_CMD, 0x18);
 }
