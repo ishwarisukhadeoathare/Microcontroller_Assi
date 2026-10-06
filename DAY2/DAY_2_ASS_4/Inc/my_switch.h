@@ -2,7 +2,7 @@
  * my_switch.h
  *
  *  Created on: 16-Sept-2026
- *      Author: pranav
+ *      Author: ishwari
  */
 
 #ifndef MY_SWITCH_H_
