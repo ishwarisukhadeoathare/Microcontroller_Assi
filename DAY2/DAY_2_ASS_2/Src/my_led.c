@@ -2,7 +2,7 @@
  * my_led.c
  *
  *  Created on: 16-Sept-2026
- *      Author: pranav
+ *      Author: ishwari
  */
 
 #include"my_led.h"
